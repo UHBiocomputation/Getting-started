@@ -31,6 +31,9 @@ be done in parallel:
 - Add your name to the list on the lab door: ask the lab desk manager.
 - Open your bank account (Barclays in Town centre, Santander in Hutton Hub):
   collect student letter from student centre?
+- `Register with NHS
+  <https://www.england.nhs.uk/contact-us/how-can-we-help/how-do-i-choose-and-register-with-a-gp/>`__:
+  at university if living in Hatfield, at local GP if out.
 
 
 Things that need adding:
