@@ -16,8 +16,8 @@ be done in parallel:
 - Get a desk: speak to lab desk manager.
 - Subscribe to the `mailing list
   <http://lists.herts.ac.uk/mailman/listinfo/com-bio>`__: do it yourself.
-- Get added to the `Github organisation <https://github.com/UHBiocomputation>`:
-  ask the Github organisation admins.
+- Get added to the `Github organisation
+  <https://github.com/UHBiocomputation>`__: ask the Github organisation admins.
 - Join the group's Slack setup: ask a Slack admin.
 - Get a `16--25 rail card <https://www.16-25railcard.co.uk/>`__: do it
   yourself.
