@@ -23,7 +23,7 @@ be done in parallel :
 - Get a desk: speak to lab desk manager.
 - Subscribe to the mailing lists:
 
-  - `Com-Bio <http://lists.herts.ac.uk/mailman/listinfo/com-bio>`__: do it yourself.
+  - `Com-Bio <https://list.herts.ac.uk/mailman/listinfo/com-bio>`__: do it yourself.
   - `Com-Adjunct <https://list.herts.ac.uk/mailman/listinfo/com-adjunct>`__: do it yourself.
 
 - Get added to the `Github organisation
