@@ -12,7 +12,7 @@ be done in parallel :
 
 - Get your ID card: during registration?
 - Get access to the laboratory added to your ID card: ask supervisors to e-mail
-  head of department (for Computer Science this is Simon Trainis). Students should not email Simon or Estates/Access Control directly.
+  head of department. For Computer Science this is Simon Trainis. Students should not email Simon or Estates/Access Control directly.
 - Get your *two* university user accounts: at registration, else speak to the
   doctoral college (one account is a student account, the other is an employ account; 
   the latter is used for example to access modules when you are teaching).
