@@ -5,14 +5,13 @@ The very first steps (it will be very helpful for you to complete those within f
 
 - Create an Induction Checklist on the `rsms.herts.ac.uk -> Registration/Progression -> Student Induction <https://rsms.herts.ac.uk/herts/#he.herts/studentInduction,;>`__. You have a month, starting from you enrollment, to complete it.
 - Do the on-line induction on the `study.net <http://www.studynet2.herts.ac.uk/res/research.nsf/Teaching+Documents?OpenView&count=9999&restricttocategory=Students/Induction>`__ - a lot of useful information is presented there.
-- Arrange a meeting with Dr. Na Helian- write an email to her (n.helian@herts.ac.uk) saying that you are a new PhD student in the Biocomputation group. She will be happy to meet with you and might clarify some of the points on the Induction checklist that are not clear for you.
+- **Outdated?** Arrange a meeting with Dr. Na Helian- write an email to her (n.helian@herts.ac.uk) saying that you are a new PhD student in the Biocomputation group. She will be happy to meet with you and might clarify some of the points on the Induction checklist that are not clear for you.
 
 Probably needs to be ordered better, but there are quite a few things than can
 be done in parallel :
 
-- Get your ID card: during registration?
-- Get access to the laboratory added to your ID card: ask supervisors to e-mail
-  head of department. For Computer Science this is Simon Trainis. Students should not email Simon or Estates/Access Control directly.
+- Get your ID card: Go to Hutton Hubduring registration?
+- Get access to the laboratory added to your ID card: ask supervisors to e-mail the head of department. For Computer Science this is Simon Trainis. Students should not email Simon or Estates/Access Control directly.
 - Get your *two* university user accounts: at registration, else speak to the
   doctoral college (one account is a student account, the other is an employ account; 
   the latter is used for example to access modules when you are teaching).
