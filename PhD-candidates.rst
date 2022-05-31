@@ -12,12 +12,11 @@ be done in parallel :
 
 - Get your ID card: Go to Hutton Hubduring registration?
 - Get access to the laboratory added to your ID card: ask supervisors to e-mail the head of department. For Computer Science this is Simon Trainis. Students should not email Simon or Estates/Access Control directly.
-- Get your *two* university user accounts: at registration, else speak to the
-  doctoral college (one account is a student account, the other is an employ account; 
-  the latter is used for example to access modules when you are teaching).
+- Get your  university user account: at registration, else speak to the
+  doctoral college (this will be your student account, there is an option to get another account once you become Visiting Lecturer and start teaching).
 - If you are a Tier 4 student, get your Blue card: from our administrators (in
   B102 or B104).
-- Get key to the lab: ask supervisors to e-mail administrators.
+- **Outdated** Get key to the lab: ask supervisors to e-mail administrators.
 - Get a new system: ask supervisors to file a ticket.
 - Get a desk: speak to lab desk manager.
 - Subscribe to the mailing lists:
@@ -39,7 +38,7 @@ be done in parallel :
 - Add your name to the `seminar rota
   <http://biocomputation.herts.ac.uk/pages/05-seminars.html>`__:  ask an admin or open a PR.
 - Add your name to the list on the lab door: ask the lab desk manager.
-- Open your bank account (Barclays in Town centre, Santander in Hutton Hub):
+- Open your bank account (**Outdated?** Barclays in Town centre, Santander in Hutton Hub):
   collect student letter from student centre?
 - `Register with NHS
   <https://www.england.nhs.uk/contact-us/how-can-we-help/how-do-i-choose-and-register-with-a-gp/>`__:
