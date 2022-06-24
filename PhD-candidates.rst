@@ -16,6 +16,7 @@ be done in parallel :
   doctoral college (this will be your student account, there is an option to get another account once you become Visiting Lecturer and start teaching).
 - If you are a Tier 4 student, get your Blue card: from our administrators (in
   B102 or B104).
+- If you are an overseas student with a student visa, collect your BRP. You should get an email when it's ready to collect at Hutton Hub.
 - **Outdated** Get key to the lab: ask supervisors to e-mail administrators.
 - Get a new system: ask supervisors to file a ticket.
 - Get a desk: speak to lab desk manager.
