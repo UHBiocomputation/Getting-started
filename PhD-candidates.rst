@@ -14,7 +14,7 @@ be done in parallel :
 - Get access to the laboratory added to your ID card: ask supervisors to e-mail the head of department. For Computer Science this is Simon Trainis. Students should not email Simon or Estates/Access Control directly.
 - Get your  university user account: at registration, else speak to the
   doctoral college (this will be your student account, there is an option to get another account once you become Visiting Lecturer and start teaching).
-- If you are a Tier 4 student, get your Blue card: from our administrators (in
+- If you have a student visa, get your Blue card to log your attendance: from our administrators (in
   B102 or B104).
 - If you are an overseas student with a student visa, collect your BRP. You should get an email when it's ready to collect at Hutton Hub.
 - **Outdated** Get key to the lab: ask supervisors to e-mail administrators.
@@ -44,7 +44,9 @@ be done in parallel :
 - `Register with NHS
   <https://www.england.nhs.uk/contact-us/how-can-we-help/how-do-i-choose-and-register-with-a-gp/>`__:
   at university if living in Hatfield, at local GP if out.
-
+  
+Other information:
+Keep in mind that Microsoft SharePoint is very useful. When you're not sure how to do something, log into your Microsoft student account and search for it SharePoint. It is full of giudes and might answer your questions.
 
 Things that need adding:
 
