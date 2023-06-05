@@ -46,7 +46,7 @@ be done in parallel :
   at university if living in Hatfield, at local GP if out.
   
 Other information:
-Keep in mind that Microsoft SharePoint is very useful. When you're not sure how to do something, log into your Microsoft student account and search for it SharePoint. It is full of giudes and might answer your questions.
+Keep in mind that Microsoft SharePoint is full of guides. When you're not sure how to do something, log into your Microsoft student account and search for it on SharePoint. It might answer your questions.
 
 Things that need adding:
 
